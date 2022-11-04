@@ -1,6 +1,6 @@
  <h1> MEETUPSNOWEASIER </h1>
  
-<h2>>_  MADE FOR THE ORGANISERS :D_</h2>
+>_<h2> MADE FOR THE ORGANISERS :D</h2>_
 
 
 ### **The end goal: **To make the job of announcing an event easier for the organisers in every level with just one click!!!
