@@ -1,7 +1,7 @@
- **#MEETUPSNOWEASIER** 
->_ ##MADE FOR THE ORGANISERS :D_
+ **# MEETUPSNOWEASIER** 
+>_ ## MADE FOR THE ORGANISERS :D_
 
-###**The end goal: **To make the job of announcing an event easier for the organisers in every level with just one click!!!
+### **The end goal: **To make the job of announcing an event easier for the organisers in every level with just one click!!!
 
 
  
